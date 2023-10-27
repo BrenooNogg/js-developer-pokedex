@@ -1,9 +1,12 @@
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 img{
-    max-width: 100%;
+    max-width: 100px;
     height: auto;
     pointer-events: none;
 }
