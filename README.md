@@ -23,6 +23,5 @@ Este é um projeto de uma Pokédex criada em JavaScript, onde você pode explora
    ```bash
    git clone https://github.com/BrenooNogg/js-developer-pokedex.git
 2. Acesse  
-   ```url
    https://brenoonogg.github.io/js-developer-pokedex/
 
