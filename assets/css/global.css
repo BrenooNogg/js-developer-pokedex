@@ -2,9 +2,17 @@
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
-
+img{
+    max-width: 100%;
+    height: auto;
+    pointer-events: none;
+}
+ul, li{
+    list-style-type: none;
+}
 body {
     background-color: #f6f8fc;
+    user-select: none ;
 }
 
 .content {
